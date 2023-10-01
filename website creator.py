@@ -35,7 +35,6 @@ contenu_html = f"""
     <div id="contenu">
         <h1>{texte_page}</h1>
         <img src="{url_icone}" alt="Icône personnalisée">
-        {contenu_html_supplementaire}
     </div>
 </body>
 </html>
